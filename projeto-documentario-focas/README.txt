@@ -1,0 +1,1 @@
+Este é um projeto de site de documentario sobre focas, idealizado pelo curso de FullsTackJS, da instituição OneBitCode.

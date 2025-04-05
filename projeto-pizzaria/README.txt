@@ -1,0 +1,1 @@
+Este é um projeto de site de pizzaria, idealizado pelo curso de FullsTackJS, da instituição OneBitCode.
